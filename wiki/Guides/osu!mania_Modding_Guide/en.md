@@ -1,33 +1,37 @@
 # osu!mania Modding Guide
 
-Greetings! If you found this it must mean that you are interested in either starting to mod in osu!mania or improving your modding! Congratulations!
-In this little Guide/Tutorial I will show you how to mod a beatmap in osu!mania. Modding is not hard and everyone can do it.
+Greetings! If you found this it must mean that you are either interested in starting to mod in osu!mania or wanting to improve your modding! Congratulations!
+In this little guide/tutorial, I will show you how to mod a beatmap in osu!mania. Modding is not hard and everyone can do it.
 And if you are good enough, you might even become a Beatmap Nominator!
-So let us start!
+So let's start!
 
 ## Part 1. Where to start?
 
 *Should you have already made your first steps in modding and know which button does what you can skip this part and move on to Part 2.*
 
-To start your modding career it doesn’t require much! Just pick a beatmap from the pending beatmap listing and start! Preferably you might have some friends who are mappers for osu!mania. Then you can also ask them if they have any beatmap they plan to rank which you could mod.
-Once you choose a beatmap, click on the “Discussion” button on the beatmap page and you will be send to the “Discussion” page, the place where you can mod a beatmap.
+It doesn’t require much to start your modding career! Just pick a beatmap from the [pending beatmap listing](https://osu.ppy.sh/beatmapsets?m=3&s=pending) and start! If you have some osu!mania mappers as friends, then you can also ask them if they have any beatmap they plan to rank which you could mod.
+Once you choose a beatmap, click on the “Discussion” button on the beatmap page and you will be sent to the discussion page, the place where you can mod a beatmap.
 
-Once you are on the page you will see a lot of buttons and stuff but don’t be scared, i will explain everything!
-- **[xK] (Difficulty Name)** - Here you can choose which difficulty you want to mod.
+Once you are on the discussion page you will see a lot of buttons but don’t be scared, i will explain everything!
+
+First, we will start with the following row of buttons:
+![](https://i.imgur.com/bGvziqZ.png)
+- **[xK] (Difficulty Name)** - Here you can choose which difficulty you want to mod. The x represents the amount of columns the map has.
 - **Mine** - Only your posts will be displayed.
-- **Notes** - Only display notes the mapper left on the discussion.
-- **Resolved** - Only display resolved issues.
+- **Notes** - Only notes the mapper left on the discussion page will be displayed.
+- **Resolved** - Only resolved issues will be displayed.
 - **Pending** - Only pending issues will be displayed.
 - **Praises** - Only praises will be displayed.
-- **All** - Everything will be display.
+- **All** - Everything will be displayed.
 - **Filter by user** - Here you can setup to let only posts by a specific user be displayed.
 
 Furthermore you have 3 “Big” buttons on the page:
-- **Hype Beatmap** - If you like the beatmap you have modded, hype it! Hypes are required to move a beatmap into qualified. Before a Beatmap Nominator can nominate the beatmap, it must reach at least 5 Hypes.
+![](https://i.imgur.com/UJY2hrN.png)
+- **Hype Beatmap** - If you like the beatmap you have modded, hype it! Hypes are required to move a beatmap into qualified. Before a Beatmap Nominator can nominate a beatmap, it must reach at least 5 Hype. You can only hype a beatmap once, and you get 1 hype every X days, up to a maximum of 10 hype.
 - **Watch/Unwatch** - Here you can follow the beatmap discussion. Once you watch a beatmap, you will get notifications whenever something happens in the beatmap discussion. Should you already follow a beatmap discussion, you can also unfollow it by clicking on the button again.
-- **Beatmap Page** - Takes you back to the previous beatmap page.
+- **Beatmap Page** - Takes you back to the beatmap information and scores page.
 
-Should you become a Beatmap Nominator or Moderator, you will see more buttons. But these are currently not important for this tutorial so i won’t explain them.
+Should you become a Beatmap Nominator or Moderator, you will see more buttons, but these are currently not important for this tutorial so i will not explain them.
 
 Before you make a post, you first have to choose where you want to post it. You can choose from 3 options:
 - **General (All difficulties)** - Things you post here will be displayed for all difficulties, regardless which one you chose in the drop down menu. Post here when you want to say something which affects the complete mapset. Such a timing point suggestions or metadata. You can also hype the beatmap here!
