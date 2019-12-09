@@ -15,7 +15,7 @@ Once you choose a beatmap, click on the “Discussion” button on the beatmap p
 Once you are on the discussion page you will see a lot of buttons but don’t be scared, i will explain everything!
 
 First, we will start with the following row of buttons:
-![](https://i.imgur.com/bGvziqZ.png)
+![](https://i.imgur.com/qDpJG62.png)
 - **[xK] (Difficulty Name)** - Here you can choose which difficulty you want to mod. The x represents the amount of columns the map has.
 - **Mine** - Only your posts will be displayed.
 - **Notes** - Only notes the mapper left on the discussion page will be displayed.
@@ -34,18 +34,24 @@ Furthermore you have 3 “Big” buttons on the page:
 Should you become a Beatmap Nominator or Moderator, you will see more buttons, but these are currently not important for this tutorial so i will not explain them.
 
 Before you make a post, you first have to choose where you want to post it. You can choose from 3 options:
-- **General (All difficulties)** - Things you post here will be displayed for all difficulties, regardless which one you chose in the drop down menu. Post here when you want to say something which affects the complete mapset. Such a timing point suggestions or metadata. You can also hype the beatmap here!
-- **General (This difficulty)** - Things you post here will be only visible on the difficulty which you have chosen above from the drop down menu. Do post here when something affects the complete difficulty, such as feedback on the complete difficulty or maybe spread problems with previous/following difficulties.
-- **Timeline** - Here you do the actual modding. All problems/suggestions for the difficulty you have chosen from the drop-down menu above belong here. You are required to copy/paste the timestamp from the difficulty here before making a post, so the mapper can see where they have to look.
+- **General (All difficulties)** - Things you post here will be displayed for all difficulties, regardless of which one you chose in the drop down menu. This is usually reserved for mentioning things which affect the complete mapset, such as timing point suggestions or metadata. You can also hype the beatmap here!
+- **General (This difficulty)** - Things you post here will be only visible on the difficulty which you have chosen above from the drop down menu. Posts here reflect the complete difficulty instead of just singular points, such as feedback on the complete difficulty or maybe spread problems with previous/following difficulties.
+- **Timeline** - This is where the bulk of modding occurs. All problems/suggestions for sections or notes in the difficulty you have chosen from the drop-down menu above belong here. You are required to copy/paste the timestamp from the difficulty here before making a post, so the mapper can see where to look.
 
-When you write something into the text field on the modding discussion you will be shown three more buttons. These are important for how important an issue is. Here a quick explaining, later i will go more into them!
-- **Praise** - Here you can praise the beatmap or several parts on the beatmap.
+When you write something into the text field on the modding discussion page, you will be shown three more general buttons, along with two situational buttons depending on what section you're in. These are important for how important an issue is. Here is a quick explaination of each before I go into them in more detail:
+
+#### General
+- **Praise** - Here you can praise the beatmap as a whole or several parts of the beatmap by using the timestamp.
 - **Suggestion** - With this your post will be marked as normal suggestion.
 - **Problem** - With this your post will be marked as problem.
 
+#### Situational
+- **Hype** - This shows up when on the General (All difficulties) section of the modding discussion page. Pressing this will cost 1 hype and increase the hype of the map by 1. A map needs 5 hype before it can be checked by Beatmap Nominators.
+- **Note** - This shows up when on your own beatmap. This will leave public notes for people to see, mainly used to point out anything that seems odd, or any future plans with the set.
+
 When you mark your post as a **suggestion** you are suggesting something. Use this for changes which are not unrankable. Pattern changes, subjective changes, everything which would improve the beatmap in your eyes. Do not fear on making subjective suggestions. When you played through the beatmap and find some pattern uncomfortable, post it as suggestion!
 
-When you mark your post as a **problem** you indicate that a change is required for the rankability of the beatmap and the change must be done. Do not post subjective changes as a problem, only when something clearly violates the Ranking Criteria or is extremely unfitting, such as SV’s on a section where nothing happens which could justify them. Or unsnapped notes.
+When you mark your post as a **problem** you indicate that a change is required for the rankability of the beatmap and the change must be done. Do not post subjective changes as a problem, only when something clearly violates the Ranking Criteria or is extremely unfitting, such as SV’s on a section where nothing happens which could justify them, or unsnapped notes.
 
 You can visit the [Beatmap Discussion](https://osu.ppy.sh/help/wiki/Beatmap_Discussion) page for more details about it!
 
