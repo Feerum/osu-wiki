@@ -185,3 +185,4 @@ You are not there to hitsound the beatmap for the Mapper. The Mapper has to ensu
 - **[General Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria)**
 - **[osu!mania Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria/osu!mania)**
 - **[Naxess' Mapset Verifier (Modding Tool)](https://github.com/Naxesss/MapsetVerifier)**
+- **[Evening's SV Crash Course](https://github.com/Eve-ning/SV-Crash-Course-LaTeX/blob/master/builds/11082018.pdf)**
