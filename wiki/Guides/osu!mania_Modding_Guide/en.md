@@ -15,7 +15,7 @@ Once you choose a beatmap, click on the “Discussion” button on the beatmap p
 Once you are on the discussion page you will see a lot of buttons but don’t be scared, i will explain everything!
 
 First, we will start with the following row of buttons:
-![](https://i.imgur.com/qDpJG62.png)
+![](Diffs.jpg)
 - **[xK] (Difficulty Name)** - Here you can choose which difficulty you want to mod. The x represents the amount of columns the map has.
 - **Mine** - Only your posts will be displayed.
 - **Notes** - Only notes the mapper left on the discussion page will be displayed.
@@ -26,7 +26,7 @@ First, we will start with the following row of buttons:
 - **Filter by user** - Here you can setup to let only posts by a specific user be displayed.
 
 Furthermore you have 3 “Big” buttons on the page:
-![](https://i.imgur.com/UJY2hrN.png)
+![](HypeNomi.jpg)
 - **Hype Beatmap** - If you like the beatmap you have modded, hype it! Hypes are required to move a beatmap into qualified. Before a Beatmap Nominator can nominate a beatmap, it must reach at least 5 Hype. You can only hype a beatmap once, and you get 1 hype every X days, up to a maximum of 10 hype.
 - **Watch/Unwatch** - Here you can follow the beatmap discussion. Once you watch a beatmap, you will get notifications whenever something happens in the beatmap discussion. Should you already follow a beatmap discussion, you can also unfollow it by clicking on the button again.
 - **Beatmap Page** - Takes you back to the beatmap information and scores page.
