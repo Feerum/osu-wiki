@@ -15,7 +15,7 @@ Once you choose a beatmap, click on the “Discussion” button on the beatmap p
 Once you are on the discussion page you will see a lot of buttons but don’t be scared, i will explain everything!
 
 First, we will start with the following row of buttons:
-![](https://i.imgur.com/qDpJG62.png)
+![](Diffs.jpg)
 - **[xK] (Difficulty Name)** - Here you can choose which difficulty you want to mod. The x represents the amount of columns the map has.
 - **Mine** - Only your posts will be displayed.
 - **Notes** - Only notes the mapper left on the discussion page will be displayed.
@@ -26,7 +26,7 @@ First, we will start with the following row of buttons:
 - **Filter by user** - Here you can setup to let only posts by a specific user be displayed.
 
 Furthermore you have 3 “Big” buttons on the page:
-![](https://i.imgur.com/UJY2hrN.png)
+![](HypeNomi.jpg)
 - **Hype Beatmap** - If you like the beatmap you have modded, hype it! Hypes are required to move a beatmap into qualified. Before a Beatmap Nominator can nominate a beatmap, it must reach at least 5 Hype. You can only hype a beatmap once, and you get 1 hype every X days, up to a maximum of 10 hype.
 - **Watch/Unwatch** - Here you can follow the beatmap discussion. Once you watch a beatmap, you will get notifications whenever something happens in the beatmap discussion. Should you already follow a beatmap discussion, you can also unfollow it by clicking on the button again.
 - **Beatmap Page** - Takes you back to the beatmap information and scores page.
@@ -172,16 +172,17 @@ You are not there to hitsound the beatmap for the Mapper. The Mapper has to ensu
 
 ## 3. Advanced/Handy Tips
 - **Do not exclusively make “Move/Add or Delete” suggestions!**
-    - These suggestions are nothing bad. They also can help to improve a mapset. But they should never Make up the majority in your modding. Try to find a good mix of “Move/Add or Delete” suggestions and other. Doing only “Move to X” “Add here” “Delete” suggestions makes your modding seem very unprofessional. This is especially important if you aim to become a Beatmap Nominator.
+    - These suggestions are nothing bad. They also can help to improve a mapset. But they should never Make up the majority in ones modding. Try to find a good mix of “Move/Add or Delete” suggestions and other. Doing only “Move to X” “Add here” “Delete” suggestions lets the modding seem very unprofessional. This is especially important when aiming for becoming a Beatmap Nominator.
 - **Mod different key modes!**
-    - Try not to focus on only one key mode! Many modders begin with 4K because it is the most played key mode and most beatmaps are for 4K, but there are also mappers for 5K, 6K, 7K, 8K and 9K, and they often have trouble finding modders. It may also give you an advantage in becoming a Beatmap Nominator in future! Modders for higher key modes are very much in demand!
+    - Try not to focus on only one key mode. Many modders begin with 4K because it is the most played key mode and most beatmaps are for 4K, but there are also mappers for 5K, 6K, 7K, 8K and 9K, and they often have trouble finding modders. It may also give an advantage in becoming a Beatmap Nominator in future! Modders for higher key modes are very much in demand!
 - **Check how other people mod!**
-    - There’s nothing bad about looking at how other people do it. Go into the discussion from some recently ranked beatmaps and check them out! Especially mods from Beatmap Nominators are worth taking a look at! They are usually very experienced in modding and can help you get a better understanding of formatting / style.
+    - There’s nothing bad about looking at how other people do it. Go into the discussion from some recently ranked beatmaps and check them out. Especially mods from Beatmap Nominators are worth taking a look at! They are usually very experienced in modding and can help  in getting a better understanding of formatting / style.
 - **Editor usage (functions not everyone might know)**
-    - **Open for Reference**: Opens a second difficulty to compare with the current one. You can access this function by “File -> Open Difficulty -> For Reference”. Then just click on the difficulty you want to open.
-    - **Show Sample Name**: Shows you the hitsound names on the notes. You can access it by “View -> Show Sample Name”. This does show you the default W/F/C samples and custom sample names. Works also with the reference difficulty.
+    - **Open for Reference**: Opens a second difficulty to compare with the current one. This function can be accessed by clicking on "File -> Open Difficulty -> For Reference" and then click on the difficulty to compare.
+    - **Show Sample Name**: Shows the hitsound names on the notes. This function can be accessed by clicking on “View -> Show Sample Name”. This does show the default W/F/C samples and custom sample names. Works also with the reference difficulty.
 
 ## 4. Useful Links
 - **[General Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria)**
 - **[osu!mania Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria/osu!mania)**
 - **[Naxess' Mapset Verifier (Modding Tool)](https://github.com/Naxesss/MapsetVerifier)**
+- **[Evening's SV Crash Course](https://github.com/Eve-ning/SV-Crash-Course-LaTeX/blob/master/builds/11082018.pdf)**
