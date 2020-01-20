@@ -1,107 +1,102 @@
 # osu!mania Modding Guide
 
-Greetings! If you found this it must mean that you are either interested in starting to mod in osu!mania or wanting to improve your modding! Congratulations!
-In this little guide/tutorial, I will show you how to mod a beatmap in osu!mania. Modding is not hard and everyone can do it.
-And if you are good enough, you might even become a Beatmap Nominator!
+This guide/tutorial will go through how to mod a beatmap in osu!mania. Modding is a relatively simple process and with enough practice, can lead to becoming a Beatmap Nominator.
 So let's start!
 
-## Part 1. Where to start?
+## Part 1. Where to start? (Modding Page Layout)
 
-*Should you have already made your first steps in modding and know which button does what you can skip this part and move on to Part 2.*
+*If familiar with the modding page layout and what each button does, please move to Part 2.*
 
-It doesn’t require much to start your modding career! Just pick a beatmap from the [pending beatmap listing](https://osu.ppy.sh/beatmapsets?m=3&s=pending) and start! If you have some osu!mania mappers as friends, then you can also ask them if they have any beatmap they plan to rank which you could mod.
-Once you choose a beatmap, click on the “Discussion” button on the beatmap page and you will be sent to the discussion page, the place where you can mod a beatmap.
+To start modding a map, pick a beatmap from the [pending beatmap listing](https://osu.ppy.sh/beatmapsets?m=3&s=pending) or ask any osu!mania mappers if they have anything they want to rank, and when on the Beatmap page, press on Discussion. This will open the Discussion page, where modding takes place.
 
-Once you are on the discussion page you will see a lot of buttons but don’t be scared, i will explain everything!
+The discussion page is filled with a lot of buttons, which are all explained below:
 
-First, we will start with the following row of buttons:
+First, let's start with the following row of buttons:
 ![](Diffs.jpg)
-- **[xK] (Difficulty Name)** - Here you can choose which difficulty you want to mod. The x represents the amount of columns the map has.
-- **Mine** - Only your posts will be displayed.
+- **[xK] (Difficulty Name)** - This opens a list of difficulties to choose from to mod. The x represents the amount of columns the map has.
+- **Mine** - Only your (the modder) posts will be displayed.
 - **Notes** - Only notes the mapper left on the discussion page will be displayed.
 - **Resolved** - Only resolved issues will be displayed.
 - **Pending** - Only pending issues will be displayed.
 - **Praises** - Only praises will be displayed.
 - **All** - Everything will be displayed.
-- **Filter by user** - Here you can setup to let only posts by a specific user be displayed.
+- **Filter by user** - Only posts by a specific user will be displayed.
 
-Furthermore you have 3 “Big” buttons on the page:
+Furthermore there are 3 buttons lower down on the page:
 ![](HypeNomi.jpg)
-- **Hype Beatmap** - If you like the beatmap you have modded, hype it! Hypes are required to move a beatmap into qualified. Before a Beatmap Nominator can nominate a beatmap, it must reach at least 5 Hype. You can only hype a beatmap once, and you get 1 hype every X days, up to a maximum of 10 hype.
-- **Watch/Unwatch** - Here you can follow the beatmap discussion. Once you watch a beatmap, you will get notifications whenever something happens in the beatmap discussion. Should you already follow a beatmap discussion, you can also unfollow it by clicking on the button again.
-- **Beatmap Page** - Takes you back to the beatmap information and scores page.
+- **Hype Beatmap** - Hypes are used as a way to promote maps and signal interest in seeing the map ranked. Hypes are required to move a beatmap into qualified as before a Beatmap Nominator can nominate a beatmap, it must reach at least 5 Hype. Each user can only hype a beatmap once, and hypes are given out every 7 days, up to a maximum of 10 hype.
+- **Watch/Unwatch** - Watching a map will cause notifications to appear whenever something happens in the beatmap discussion. Should you already follow a beatmap discussion, you can also unfollow it by clicking on the button again.
+- **Beatmap Page** - Goes back to the beatmap information and scores page.
 
-Should you become a Beatmap Nominator or Moderator, you will see more buttons, but these are currently not important for this tutorial so i will not explain them.
+Beatmap Nominators/Moderators get additional buttons, but these are not important for this tutorial.
 
-Before you make a post, you first have to choose where you want to post it. You can choose from 3 options:
-- **General (All difficulties)** - Things you post here will be displayed for all difficulties, regardless of which one you chose in the drop down menu. This is usually reserved for mentioning things which affect the complete mapset, such as timing point suggestions or metadata. You can also hype the beatmap here!
-- **General (This difficulty)** - Things you post here will be only visible on the difficulty which you have chosen above from the drop down menu. Posts here reflect the complete difficulty instead of just singular points, such as feedback on the complete difficulty or maybe spread problems with previous/following difficulties.
-- **Timeline** - This is where the bulk of modding occurs. All problems/suggestions for sections or notes in the difficulty you have chosen from the drop-down menu above belong here. You are required to copy/paste the timestamp from the difficulty here before making a post, so the mapper can see where to look.
+Before posting, make sure the correct tab is selected based on what changes are going to be suggested. A total of 3 different options are available:
+- **General (All difficulties)** - Posts here will be displayed for all difficulties, which is usually reserved for mentioning things which affect the complete mapset, such as timing point suggestions or metadata. Hyping a beatmap also occurs here.
+- **General (This difficulty)** - Posts here will be only visible on the difficulty set above. Posts here reflect the complete difficulty instead of singular points, such as feedback on the complete difficulty or spread problems with previous/following difficulties.
+- **Timeline** - This is where the bulk of modding occurs. All problems/suggestions for sections or notes in the difficulty chosen above belong here. Copy/pasting a timestamp from the editor to the discussion page is required before making a post, so the mapper knows what section is being discussed.
 
-When you write something into the text field on the modding discussion page, you will be shown three more general buttons, along with two situational buttons depending on what section you're in. These are important for how important an issue is. Here is a quick explaination of each before I go into them in more detail:
+Writing something into the text field on the modding discussion page shows three more general buttons, along with two situational buttons depending on what section is chosen. These are important for how important an issue is. Here is a quick explaination of each before going into more detail below:
 
 #### General
-- **Praise** - Here you can praise the beatmap as a whole or several parts of the beatmap by using the timestamp.
-- **Suggestion** - With this your post will be marked as normal suggestion.
-- **Problem** - With this your post will be marked as problem.
+- **Praise** - Allows the modder to point out parts of the map they enjoyed using a timestamp or the entire difficulty if they desire.
+- **Suggestion** - Marks a post as a normal suggestion.
+- **Problem** - Marks a post as a problem.
 
 #### Situational
-- **Hype** - This shows up when on the General (All difficulties) section of the modding discussion page. Pressing this will cost 1 hype and increase the hype of the map by 1. A map needs 5 hype before it can be checked by Beatmap Nominators.
-- **Note** - This shows up when on your own beatmap. This will leave public notes for people to see, mainly used to point out anything that seems odd, or any future plans with the set.
+- **Hype** - Only visible when on the General (All difficulties) section of the modding discussion page. This costs 1 hype and increases the hype of the map by 1. A map needs 5 hype before it can be checked by Beatmap Nominators.
+- **Note** - Only visible if you are the owner of the beatmap. This will leave public notes for people to see, mainly used to point out anything that seems odd, or any future plans with the set.
 
-When you mark your post as a **suggestion** you are suggesting something. Use this for changes which are not unrankable. Pattern changes, subjective changes, everything which would improve the beatmap in your eyes. Do not fear on making subjective suggestions. When you played through the beatmap and find some pattern uncomfortable, post it as suggestion!
+When a post is marked as a **suggestion** it is for changes that are subjective and not unrankable. Pattern changes, specific note placements, and other changes which could improve the map. This is mainly used if the modder finds certain patterns uncomfortable, or finds a note that seems out of place but isn't sure.
 
-When you mark your post as a **problem** you indicate that a change is required for the rankability of the beatmap and the change must be done. Do not post subjective changes as a problem, only when something clearly violates the Ranking Criteria or is extremely unfitting, such as SV’s on a section where nothing happens which could justify them, or unsnapped notes.
+When a post is marked as a **problem** it is for changes that are required for the rankability of the beatmap and are objectively needed for ranked. Do not post subjective changes as a problem, only when something clearly violates the Ranking Criteria or is extremely unfitting, such as SVs on a section where nothing happens which could justify them, unsnapped notes, or completely mistimed BPM.
 
-You can visit the [Beatmap Discussion](https://osu.ppy.sh/help/wiki/Beatmap_Discussion) page for more details about it!
+You can visit the [Beatmap Discussion](https://osu.ppy.sh/help/wiki/Beatmap_Discussion) page for more details.
 
 ## Part 2. Let's start modding!
-Alright, after a lot of theory and explaining what buttons do what we can finally start with what you're here for. Modding a beatmap! For that you have to open the difficulty of a beatmap you want to mod in the editor. Then you choose **the same** difficulty from the drop-down menu on the beatmap discussion page, to be sure you make your posts on the correct difficulty!
+To start modding, open the difficulty of a beatmap in the editor. Then choose **the same** difficulty from the drop-down menu on the beatmap discussion page, to be sure posts go to the correct difficulty.
 
-**Before we start**: You do not have to mod all of the following points. If you are unsure with something, such as metadata or timing, leave it out. However, it is good to train your skills in all of these points, as to become a Beatmap Nominator you will need to have experience checking each point. Even if you do make mistakes, you can learn from them! It’s like everything in life: **Learning by doing!**
+**Before we start**: Not all points brought up below have to be covered in each mod. If unsure with something, such as metadata or timing, leave it out. However, it is good to practice to learn how to cover all of the points below, as it is required to have experience in all to become a Beatmap Nominator. Even if mistakes are made, experience and learning is still gained from it.
 
 ### 2.1 The AiMod
-So what to do first? The best suggestion when entering a beatmap difficulty for the first time is **checking the AiMod**.
+The best suggestion when entering a beatmap difficulty for the first time is **checking the AiMod**.
 
 This can be done by pressing on “File” on the top-left corner of the screen and choosing “Open AiMod”. Alternatively, simply press CTRL+Shift+A, which also opens the AiMod.
 
-The AiMod will tell you when something is wrong in the beatmap. It displays issues in two categories. **Warning** and **Error**. A warning will be displayed if there is a minor issue, something that can be easily fixed. However, a lot of warnings can be ignored because they are actually not against the Ranking Criteria.
-One of them, for example, is “Kiai Time is toggled on for less than 15 seconds.” You will find this issue show up sometimes as the section the kiai covers (which is usually a chorus) can be less than 15 seconds overall, which is ok. 
-The issue is that it also displays unsnapped objects as a **warning** while it is clearly against the Ranking Criteria.
-You should always make a general post for the difficulty if you see something in the AiMod which needs to get fixed.
+The AiMod lists issues with the beatmap as a whole as well as the specific difficulty open. It displays issues in two categories. **Warning** and **Error**. A warning will be displayed if there is a minor issue, something that can be easily fixed. However, some of these are not against the Ranking Criteria and are not an issue.
+For example, “Kiai Time is toggled on for less than 15 seconds.” will show up ocassionally as the section the kiai covers (which is usually a chorus) can be less than 15 seconds overall, which is not against any ranking criteria. 
+Some things that show up as a **warning** are against the Ranking Criteria however, for example, unsnapped notes.
+Collating all of the important issues that AiMod raises into one **General (This difficulty)** post is a good place to start. If there are none, move on.
 
 ### 2.2 The Timing
-After checking the AiMod you can **check the timing** of a beatmap. A correct timing is mandatory for a beatmap to get ranked, even for the playability for the beatmap although the beatmap might not get ranked.
+After checking the AiMod, **checking the timing** of a beatmap . A correct timing is mandatory for a beatmap to get ranked, as well as for general playability purposes.
 
-But how do i check if it’s correctly timed? First you check if the BPM is correct. Mostly this should be the case, but everyone makes mistakes. Check if the “Beats” of the map land on a white beat line consistently and don't drift either early or late. The best way to do so is increasing the hitsound volume and setting the playback rate of the map slower. Then just listen carefully if the hitsounds plays correctly with the beat! Simple, right?
+To check that a beatmap is correctly timed, first you check if the BPM is correct. Mostly this isn't an issue, but it's good to check nevertheless. The best way to check this is by checking if the beats of the song land on a white beat line consistently and don't drift either early or late. Increasing the hitsound volume and setting the playback rate of the map slower can help with this. If the beats of the song drift early, then decrease the bpm, otherwise if they drift late, then increase the bpm until they match.
 
-Next you check the offset. Most timing problems occur when setting the offset. An offset which is wrong for more than 5ms is unrankable, so it's important to make sure it's accurate! You can basically do it the same way you are checking the BPM and making sure that the beat falls exactly on the white line.
+Next, check the offset. Most timing problems occur when setting the offset. An offset which is wrong for more than 5ms is unrankable, so it's important to make sure it's accurate. This is done by making sure the main beat of the song lines up with the main white line exactly, and increase the offset if the song is early, and decrease if the song is late.
 
-The offset is the timing points position. It should **always**  start on the very first beat of the map! If this is not the case, point it out as problem on the beatmap discussion. However, there are special cases where it does not start at the very first beat, for example it can start in the minus, if it is required for the storyboard.
+The offset is the timing points position. It should **always**  start on the very first beat of the map. If this is not the case, point it out as problem on the beatmap discussion. However, there are special cases where it does not start at the very first beat, for example it can start in the minus, if it is required for the storyboard.
 
 ### 2.3 The Metadata
-The next point is also important for beatmap rankability, however because of its awkwardness, it often gets skipped. It’s **checking the Metadata of the beatmap**. The “Metadata” is basically the first window you can see, when you open the “Song Setup”. Everything in the “General” part belongs to the Metadata. The Artist, Title etc.
+**Cecking the Metadata of the beatmap** is important for beatmap rankability, however because of its awkwardness, it often gets skipped. The “Metadata” is conatained in the “General” Tab of the “Song Setup” window, which includes, Song Title, Artist, etc.
 
-It often gets skipped because it requires effort on researching several sources on the internet, preferably **official sources**, for a proof of the Metadata. The main issue arises when the artist and title are written in a different language, such as Japanese, Korean or Russian.
+It is usually skipped due to the effort required finding **official sources** for a proof of the Metadata, one of the main issues being when the artist and title are written in a different language, such as Japanese, Korean or Russian. It’s not required to understand other languages for this, just as long as the Metadata is exactly the same as in the official source on the internet.
 
-It’s not required to understand other languages for it, you should just make sure the Metadata is exactly the same as in the official source on the internet.
+Whilst this part can be skipped, it can be a huge help for the mapper and BNs if the Metadata is checked and a post is made about it. Even when the Metadata is already correct, posting good sources for confirmation also helps.
 
-Whilst this part can be skipped, you can be a huge help for the mapper and BNs if you check the Metadata and make a post about it. Even when the Metadata is already correct, posting good sources for it is also helping!
-
-If you need any help verifying legitimate sources for metadata, the [Metadata Heap](https://discord.gg/9Y4EdyM) discord is open for such questions.
+If unsure of a legitimate source for metadata, the [Metadata Heap](https://discord.gg/9Y4EdyM) discord is open for such questions.
 
 ### 2.4 The Song Setup
-Whilst we are in the **Song Setup Screen**, why not stay here and check the other tabs of it too?
+Whilst in the **Song Setup Screen**, let's go through the other tabs.
 
-On the **Difficulty** page, you can check if the OD/HP for the beatmap follow the **official guidelines** from the Ranking Criteria. Keep in mind that Guidelines have to be followed or the mapper needs to explain why they have something different. Point that out as a problem should you see that it does not follow the Ranking Criteria!
+On the **Difficulty** page, check if the OD/HP for the beatmap follow the **official guidelines** from the Ranking Criteria. Keep in mind that Guidelines have to be followed or the mapper needs to explain why they have chosen something different. Point it out as a problem if the OD/HP does does not follow the Ranking Criteria!
 
-Besides that, you should also check if the HP/OD used in the beatmap are appropriate for its difficulty / patterning. If the beatmap uses a lot of long notes for example, the OD rate should be kept rather low.
+Besides that, make sure the HP/OD used in the beatmap are appropriate for its difficulty / patterning and match up with the rest of the set. If the beatmap uses a lot of long notes for example, the OD rate should be kept rather low.
 
-The **Audio** and **Colors** pages are not that important for you as a modder.
+The **Audio** and **Colors** pages are not that important as a modder.
 
-Moving on to Design. This is only important if the beatmap has a storyboard. Should the map have one, make sure that **Widescreen Support** is ticked. If the storyboard has a lot of flashing lights, it also requires to tick **Display Epilepsy Warning**, so whenever the map gets played by a user, they first see the warning.
+Moving on to **Design.** This is only important if the beatmap has a storyboard. Should the map have one, make sure that **Widescreen Support** is ticked. If the storyboard has a lot of flashing lights, it also required to have **Display Epilepsy Warning** enabled, so whenever the map gets played by a user, they first see this warning.
 
-The last page is the **Advanced Section**. This one is also not important for you as a modder.
+The last page is the **Advanced Section**. This one is also not important as a modder.
 
 ### 2.5 Spread Modding
 The next important thing which should always be checked is the overall spread of the beatmap.
