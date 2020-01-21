@@ -99,27 +99,23 @@ Moving on to **Design.** This is only important if the beatmap has a storyboard.
 The last page is the **Advanced Section**. This one is also not important as a modder.
 
 ### 2.5 Spread Modding
-The next important thing which should always be checked is the overall spread of the beatmap.
+Next on the list of checks is the overall spread of the beatmap.
 
-But first things first: **Don't ever use Star Rating as a spread measure**. Do not take that into account. The Star Rating is pretty broken in osu!mania. It takes mostly the note density as measure. Means: More Notes = More Star Rating. Especially on higher BPM it can happen really fast that the difficulties skip from 3* to almost 5* because of the note density, while it’s still perfectly fine according to the Ranking Criteria.
+As a forewarning: **Don't ever use Star Rating as a spread measure**. It is currently wildly inaccurate in osu!mania as it only focuses on note density to calculate Star Rating, which can cause one dense section to spike the rest of the rating, despite the fact that the spread still fits overall in the set.
 
-So remember: **Do not use Star Rating as a measure for spread**.
+Moving on, the best way to start juding the beatmap spread is to go into the editor of one difficulty of the beatmap, then going to “File” in the top-left corner, to “Open Difficulty…” and then select “For Reference”. On the difficulty selection pop-up, select the next difficulty in the spread. for example: If checking an Easy, open the Normal. If Normal, open the Hard and so on. Now two difficulties are shown on the screen, the one on the left being the original, and the one on the right being the selected for reference map.
 
-Alright. Now that's clarified, how exactly do you check the spread?
+Shown below is an example of comparing two difficulties for spread:
 
-The best way is to go into the editor of one difficulty of the beatmap you are checking right now, and then going to “File” in the top-left corner, to “Open Difficulty…” and then select “For Reference”. Then you select the next difficulty in the spread. If you are checking an Easy, open the Normal. If Normal, open the Hard and so on. Now you have the next difficulty shown in the editor right next to the one you are checking right now.
+An **Easy difficulty** of a beatmap of 180 BPM is being checked. The Easy difficulty consists mostly of 1/1 pattern with occasional 1/2 patterns and rare jump usage.
 
-All you have to do now is compare the pattern difficulty between these two beatmaps. Let’s look at an example:
+In the **Normal difficulty**, there are several 1/4 patterns with a length of 5 Notes. These are spotted around parts which were mapped in simple 1/1 pattern in the Easy Difficulty.
 
-You are checking an **Easy difficulty** of a beatmap of 180 BPM. The Easy difficulty consists mostly of 1/1 pattern with occasional 1/2 patterns and rare jump usage.
+The jump from 1/1 to 1/4 is pretty high in several places, which is not acceptable to spread criteria. The difficulty is increasing way too quickly as a beginner is unlikely to be able to progress from 1/1 patterning to 1/4.
 
-In the **Normal difficulty** you can spot several 1/4 patterns with a length of 5 Notes. You spot them especially in parts which were mapped in simple 1/1 pattern in the Easy Difficulty.
+This can be pointed out as a problem in the “General (This difficulty)” tab on the beatmap discussion page. First of all, state the problem (difficulty increase between Easy and Normal is too sharp), then give the mapper several examples in the beatmap by posting the timestamps, explaining that the spread is not acceptable. Finally, give the mapper a solution. Either by reducing or increasing one of the difficulties, or creating another difficulty altogether if the spread is too large.
 
-You can imagine that the jump from 1/1 to 1/4 is pretty high in several places, which is not alright. The difficulty is increasing way too quickly because you can’t expect from a beginner which just learned the game to play different types of 1/4 patterns.
-
-You can point this out as a problem in the “General (This difficulty)” tab on the beatmap discussion page. First of all you have to state the problem, then you give the mapper several examples in the beatmap by posting the timestamps, explaining that the spread is not acceptable. Finally you give the mapper a solution. Either by reducing or increasing one of the difficulties, or creating another difficulty altogether if the spread is too large.
-
-You basically do this with every difficulty in the beatmap set, taking also the ranking criteria into account.
+Do this with every difficulty in the beatmap set, taking also the ranking criteria into account.
 
 **Note**: Should the beatmap have a length of over 5 minutes and still have several difficulties mapped, it does not have to follow any spread rules. This is also stated in the general Ranking Criteria.
 
